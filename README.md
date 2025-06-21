@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MCFELA123
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Front End and Full Stack Development
 - 💞️ I’m looking to collaborate on a full time Job
 - 📫 How to reach me (michaelchibubuzor389@gmail.com)
 - ⚡ Fun fact: Determined professional
