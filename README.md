@@ -45,10 +45,10 @@ _Rexion (May 2025, 3-month contract)_
 
 ## 🛠 Key Projects
 
-- **Breeze** | Browser for Solana – [GitHub](#)
-- **Series Concept** | Watch App Motion UI – [GitHub](#)
-- **Rexion** | Decentralized Crypto Mining – [GitHub](#)
-- **mcfela** | [Portfolio Website](#)
+- **Breeze** | Browser for Solana – [GitHub](https://github.com/xAetherLabs/BreezeBrowser)
+- **Series Concept** | Watch App Motion UI – [GitHub](https://github.com/series-concept)
+- **Rexion** | Decentralized Crypto Mining – [Link](https://rexion.netlify.app)
+- **mcfela** | [Portfolio Website](https://mcfela.framer.ai)
 - **BSCN** | Crypto News Platform
 
 ---
@@ -73,7 +73,7 @@ _Rexion (May 2025, 3-month contract)_
 ## 📫 Connect with Me
 
 - **Email:** michaelchibuzor389@gmail.com
-- **Portfolio:** [https://mcfela.framer.ai]
+- **Portfolio:** [Portfolio](https://mcfela.framer.ai)
 
 ---
 
