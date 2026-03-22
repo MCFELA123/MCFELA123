@@ -34,9 +34,9 @@ AI-powered fitness app with body scanning, personalized workout plans, smart nut
 - [View Repository →](https://github.com/MCFELA123/mog-ai)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MCFELA123/mog-ai/main/screenshots/mog-home.png" alt="Mog.AI Home Dashboard" width="220"/>
+  <img src="https://github.com/MCFELA123/mog-ai/blob/main/screenshots/mogai-home.jpeg" alt="Mog.AI Home Dashboard" width="220"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MCFELA123/mog-ai/main/screenshots/mog-messages.png" alt="Mog.AI Community Messages" width="220"/>
+  <img src="https://github.com/MCFELA123/mog-ai/blob/main/screenshots/mogai-messages.jpeg" alt="Mog.AI Community Messages" width="220"/>
 </p>
 
 ---
@@ -53,12 +53,11 @@ Full-stack e-commerce marketplace for Roblox in-game items with automated delive
 - [View Repository →](https://github.com/MCFELA123/bloxbeam)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MCFELA123/bloxbeam/main/screenshots/bloxbeam-hero.png" alt="BloxBeam Homepage" width="700"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MCFELA123/bloxbeam/main/screenshots/bloxbeam-catalog.png" alt="BloxBeam MM2 Catalog" width="340"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MCFELA123/bloxbeam/main/screenshots/bloxbeam-product.png" alt="BloxBeam Product Detail" width="340"/>
+  <img src="https://github.com/MCFELA123/bloxbeam/blob/main/screenshots/bloxbeam-home.png" alt="BloxBeam Hero" width="600"/>
+  <img src="https://github.com/MCFELA123/bloxbeam/blob/main/screenshots/bloxbeam-select.png" alt="BloxBeam Hero" width="600"/>
+  <img src="https://github.com/MCFELA123/bloxbeam/blob/main/screenshots/bloxbeam-catalog.png" alt="BloxBeam Hero" width="600"/>
+  <img src="https://github.com/MCFELA123/bloxbeam/blob/main/screenshots/bloxbeam-popup.png" alt="BloxBeam Hero" width="600"/>
+  <img src="https://github.com/MCFELA123/bloxbeam/blob/main/screenshots/bloxbeam-product.png" alt="BloxBeam Hero" width="600"/>
 </p>
 
 ---
