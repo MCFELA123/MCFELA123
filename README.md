@@ -1,80 +1,132 @@
-# 👋 Hi, I'm Michael Chibuzor
+<h1 align="center">Hey, I'm Michael Chibuzor 👋</h1>
 
-**Web & App Developer | 8+ Years Experience | React, Vite, Typescript, Angular**
+<p align="center">
+  <strong>Full-Stack Mobile & Web Engineer · Solana Developer · 8+ Years Shipping Products</strong>
+</p>
+
+<p align="center">
+  <a href="https://mcfela.framer.ai"><img src="https://img.shields.io/badge/Portfolio-mcfela.framer.ai-black?logo=framer&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:michaelchibuzor389@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/michfela"><img src="https://img.shields.io/badge/Telegram-@michfela-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-Creative and results-driven developer, passionate about building high-performance web and mobile applications. I specialize in responsive design, performance optimization, and delivering seamless UX across platforms. My focus is on crafting user-first, scalable, and accessible interfaces that drive business growth.
+I build **production-grade mobile apps, web platforms, and Web3 dApps** that people actually use. From apps on the **App Store** with real paying users, to e-commerce platforms processing thousands of orders, to **Solana hackathon projects** — I ship fast, build with quality, and focus on real-world impact.
+
+**My core stack:** React Native · Expo · TypeScript · React · Next.js · Vite · Node.js · Solana · Web3
+
+---
+
+## 🏆 Shipped Products (Live in Production)
+
+### 🏋️ [Mog.AI](https://mogai.io) — AI Fitness & Body Scanner
+> **Live on [App Store](https://apps.apple.com/us/app/mog-ai/id6758670115) & [Google Play](https://play.google.com/store/apps/details?id=com.mog.ai)**
+
+AI-powered fitness app with body scanning, personalized workout plans, smart nutrition tracking, and 24/7 AI coach. Built with React Native, TypeScript, and custom AI/ML models.
+
+- ✅ **Published on both App Store & Google Play**
+- ✅ Subscription-based SaaS with real paying users
+- ✅ AI body scanning, meal scanning, personalized 4-week plans
+- ✅ [View Repository →](https://github.com/YOUR_USERNAME/mog-ai)
+
+<p align="center">
+  <img src="https://mogai.io/screenshots/welcome.png" alt="Mog.AI Screenshot" width="220"/>
+</p>
+
+---
+
+### 🎮 [BloxBeam](https://bloxbeam.com) — Roblox eCommerce Marketplace
+> **Live at [bloxbeam.com](https://bloxbeam.com) · 1,500+ customers · 4.5/5.0 rating**
+
+Full-stack e-commerce marketplace for Roblox in-game items with automated delivery, secure payments, and 24/7 support. Supports 6+ Roblox games.
+
+- ✅ **1,500+ verified customers**, thousands of orders processed
+- ✅ Automated delivery system — items in inventory within minutes
+- ✅ Stripe/PayPal integration, real revenue-generating platform
+- ✅ [View Repository →](https://github.com/YOUR_USERNAME/bloxbeam)
+
+<p align="center">
+  <img src="https://www.bloxbeam.com/assets/layers-DQDZ_DAV.png" alt="BloxBeam Screenshot" width="500"/>
+</p>
+
+---
+
+## 🔗 Solana & Web3 Experience
+
+### 🌐 [Breeze Browser](https://github.com/xAetherLabs/BreezeBrowser) — Privacy-First Browser for Solana Mobile
+*Solana Mobile Hackathon (Jul–Aug 2025)*
+
+Built a privacy-first web browser for Solana Mobile devices with integrated crypto payments.
+- Integrated **Solana Mobile Stack (SMS)** & **Mobile Wallet Adapter**
+- Built Privacy Mode, Normal Mode, and **Breeze Pay** (crypto payments)
+- Delivered hackathon prototype on time
+
+### ⛏️ [Rexion](https://rexion.netlify.app) — Decentralized Crypto Mining Platform
+*Web3 UX Designer/Developer (3-month contract)*
+
+Designed and developed a decentralized mining platform with wallet connection, smart contract signing, and real-time crypto balance tracking.
+- Tech: React, TypeScript, Node.js, Ether.js, Web3.js
+- Improved site performance by 30% with SSR
 
 ---
 
 ## 💼 Professional Experience
 
-**Frontend Mobile Developer**  
-_Breeze – Solana Mobile Hackathon (Jul–Aug 2025)_  
-- Designed & built Breeze, a privacy-first web browser for Solana Mobile devices.
-- Integrated Solana Mobile Stack (SMS) & Mobile Wallet Adapter for secure dApp interactions.
-- Developed Privacy Mode and Normal Mode with crypto payments (Breeze Pay).
-- Optimized for mobile performance and clean UI/UX.
-- Hackathon prototype delivered on time.
-
-**Product Developer**  
-_Benfilo Global Services (Apr 2020–Present)_  
-- Developed a unified dashboard for company, inventory, and shift management.
-- Implemented cross-platform design (+30% mobile retention).
-- Built role-based dashboards and led usability overhaul.
-- Delivered features: Login Auth, Ticket System, Shift Scheduling, Inventory Transfers.
-
-**Frontend Developer**  
-_Onus Project (Feb–Sep 2023)_  
-- Developed Doctor Appointment booking platform (React, ES6, NodeJS, Express).
-- Features: Auth, booking, live consultation, notifications, service filtering.
-- Led a team of 5 frontend devs (+25% productivity).
-
-**Web3 UX Designer/Developer**  
-_Rexion (May 2025, 3-month contract)_  
-- Designed and developed decentralized crypto mining platform, UX-focused.
-- Features: Wallet connection, Smart contract signing, Crypto Balance, Token snapshot.
-- Tech: React, Typescript, NodeJS, express, Ether.js, Web3.js.
-- Improved site performance by 30% with server-side rendering.
-- Created brand assets (flyers, banners), driving +10% Q1 2022 leads.
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| **Frontend Mobile Developer** | Breeze (Solana Hackathon) | Jul–Aug 2025 | Solana Mobile Stack, Wallet Adapter, crypto payments |
+| **Product Developer** | Benfilo Global Services | Apr 2020–Present | Dashboard, inventory/shift management, +30% mobile retention |
+| **Frontend Lead** | Onus Project | Feb–Sep 2023 | Doctor booking platform, led team of 5, +25% productivity |
+| **Web3 UX Dev** | Rexion | May 2025 | DeFi mining platform, smart contracts, +30% performance |
 
 ---
 
-## 🛠 Key Projects
+## 🛠 Technical Skills
 
-- **Breeze** | Browser for Solana – [GitHub](https://github.com/xAetherLabs/BreezeBrowser)
-- **Series Concept** | Watch App Motion UI – [GitHub](https://github.com/series-concept)
-- **Rexion** | Decentralized Crypto Mining – [Link](https://rexion.netlify.app)
-- **mcfela** | [Portfolio Website](https://mcfela.framer.ai)
-- **BSCN** | Crypto News Platform
+```
+Languages:       TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Solidity
+Mobile:          React Native · Expo · Solana Mobile Stack · Mobile Wallet Adapter
+Frontend:        React · Next.js · Vite · Vue · Angular
+Backend:         Node.js · Express · GraphQL · REST APIs
+Web3:            Solana Pay · Solana Web3.js · Ether.js · Web3.js · SPL Tokens
+State:           Redux · MobX · Context API · Zustand
+Styling:         Tailwind CSS · Styled-Components · Sass · CSS Grid/Flexbox
+Tools:           Git · GitHub · Webpack · Vite · Firebase · Vercel
+Other:           CI/CD · Responsive Design · WCAG · Agile/Scrum
+```
 
 ---
 
-## 🧑‍💻 Skills & Tools
+## 📊 By the Numbers
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks:** React, Typescript, Vite, Vue, Next.js, Angular
-- **State Management:** Redux, MobX, Vuex
-- **Tools:** Git, GitHub, Webpack, Vite
-- **Styling:** Sass, Less, Bootstrap, CSS Grid/Flexbox, Styled-components
-- **Other:** REST API, GraphQL, Responsive Design, WCAG, Agile/Scrum
+<table>
+<tr>
+<td align="center"><h2>8+</h2><strong>Years Experience</strong></td>
+<td align="center"><h2>2</h2><strong>Apps on App Store</strong></td>
+<td align="center"><h2>1,500+</h2><strong>Customers Served</strong></td>
+<td align="center"><h2>5+</h2><strong>Production Products</strong></td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Certifications
 
-- **Amazon Web Developer – Associate** _(renewing)_
+- **Amazon Web Developer – Associate** *(renewing)*
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-- **Email:** michaelchibuzor389@gmail.com
-- **Portfolio:** [Portfolio](https://mcfela.framer.ai)
+- 🌐 **Portfolio:** [mcfela.framer.ai](https://mcfela.framer.ai)
+- 📧 **Email:** michaelchibuzor389@gmail.com
+- 💬 **Telegram:** [@michfela](https://t.me/michfela)
 
 ---
 
-> _“Passionate about building user-first, scalable, and accessible interfaces that drive business growth.”_
+<p align="center">
+  <em>"I don't just write code — I ship products that people use, pay for, and love."</em>
+</p>
