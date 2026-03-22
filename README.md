@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Michael Chibuzor 👋</h1>
+<h1 align="center">Hey, I'm Michael Chibuzor</h1>
 
 <p align="center">
   <strong>Full-Stack Mobile & Web Engineer · Solana Developer · 8+ Years Shipping Products</strong>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I build **production-grade mobile apps, web platforms, and Web3 dApps** that people actually use. From apps on the **App Store** with real paying users, to e-commerce platforms processing thousands of orders, to **Solana hackathon projects** — I ship fast, build with quality, and focus on real-world impact.
 
@@ -20,43 +20,52 @@ I build **production-grade mobile apps, web platforms, and Web3 dApps** that peo
 
 ---
 
-## 🏆 Shipped Products (Live in Production)
+## Shipped Products (Live in Production)
 
-### 🏋️ [Mog.AI](https://mogai.io) — AI Fitness & Body Scanner
+### [Mog.AI](https://mogai.io) — AI Fitness & Body Scanner
 > **Live on [App Store](https://apps.apple.com/us/app/mog-ai/id6758670115) & [Google Play](https://play.google.com/store/apps/details?id=com.mog.ai)**
 
 AI-powered fitness app with body scanning, personalized workout plans, smart nutrition tracking, and 24/7 AI coach. Built with React Native, TypeScript, and custom AI/ML models.
 
-- ✅ **Published on both App Store & Google Play**
-- ✅ Subscription-based SaaS with real paying users
-- ✅ AI body scanning, meal scanning, personalized 4-week plans
-- ✅ [View Repository →](https://github.com/YOUR_USERNAME/mog-ai)
+- **Published on both App Store & Google Play**
+- Subscription-based SaaS with real paying users
+- AI body scanning, meal scanning, personalized 4-week plans
+- Community messaging, leaderboards, and gamified progress tracking
+- [View Repository →](https://github.com/MCFELA123/mog-ai)
 
 <p align="center">
-  <img src="https://mogai.io/screenshots/welcome.png" alt="Mog.AI Screenshot" width="220"/>
+  <img src="https://raw.githubusercontent.com/MCFELA123/mog-ai/main/screenshots/mog-home.png" alt="Mog.AI Home Dashboard" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MCFELA123/mog-ai/main/screenshots/mog-messages.png" alt="Mog.AI Community Messages" width="220"/>
 </p>
 
 ---
 
-### 🎮 [BloxBeam](https://bloxbeam.com) — Roblox eCommerce Marketplace
+### [BloxBeam](https://bloxbeam.com) — Roblox eCommerce Marketplace
 > **Live at [bloxbeam.com](https://bloxbeam.com) · 1,500+ customers · 4.5/5.0 rating**
 
 Full-stack e-commerce marketplace for Roblox in-game items with automated delivery, secure payments, and 24/7 support. Supports 6+ Roblox games.
 
-- ✅ **1,500+ verified customers**, thousands of orders processed
-- ✅ Automated delivery system — items in inventory within minutes
-- ✅ Stripe/PayPal integration, real revenue-generating platform
-- ✅ [View Repository →](https://github.com/YOUR_USERNAME/bloxbeam)
+- **1,500+ verified customers**, thousands of orders processed
+- Automated delivery system — items in inventory within minutes
+- Stripe/PayPal integration, real revenue-generating platform
+- Product catalog with search, filters, Fast Buy, and cart system
+- [View Repository →](https://github.com/MCFELA123/bloxbeam)
 
 <p align="center">
-  <img src="https://www.bloxbeam.com/assets/layers-DQDZ_DAV.png" alt="BloxBeam Screenshot" width="500"/>
+  <img src="https://raw.githubusercontent.com/MCFELA123/bloxbeam/main/screenshots/bloxbeam-hero.png" alt="BloxBeam Homepage" width="700"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MCFELA123/bloxbeam/main/screenshots/bloxbeam-catalog.png" alt="BloxBeam MM2 Catalog" width="340"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MCFELA123/bloxbeam/main/screenshots/bloxbeam-product.png" alt="BloxBeam Product Detail" width="340"/>
 </p>
 
 ---
 
-## 🔗 Solana & Web3 Experience
+## Solana & Web3 Experience
 
-### 🌐 [Breeze Browser](https://github.com/xAetherLabs/BreezeBrowser) — Privacy-First Browser for Solana Mobile
+### [Breeze Browser](https://github.com/xAetherLabs/BreezeBrowser) — Privacy-First Browser for Solana Mobile
 *Solana Mobile Hackathon (Jul–Aug 2025)*
 
 Built a privacy-first web browser for Solana Mobile devices with integrated crypto payments.
@@ -64,7 +73,7 @@ Built a privacy-first web browser for Solana Mobile devices with integrated cryp
 - Built Privacy Mode, Normal Mode, and **Breeze Pay** (crypto payments)
 - Delivered hackathon prototype on time
 
-### ⛏️ [Rexion](https://rexion.netlify.app) — Decentralized Crypto Mining Platform
+### [Rexion](https://rexion.netlify.app) — Decentralized Crypto Mining Platform
 *Web3 UX Designer/Developer (3-month contract)*
 
 Designed and developed a decentralized mining platform with wallet connection, smart contract signing, and real-time crypto balance tracking.
@@ -73,7 +82,7 @@ Designed and developed a decentralized mining platform with wallet connection, s
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 | Role | Company | Period | Highlights |
 |------|---------|--------|------------|
@@ -84,7 +93,7 @@ Designed and developed a decentralized mining platform with wallet connection, s
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ```
 Languages:       TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Solidity
@@ -100,7 +109,7 @@ Other:           CI/CD · Responsive Design · WCAG · Agile/Scrum
 
 ---
 
-## 📊 By the Numbers
+## By the Numbers
 
 <table>
 <tr>
@@ -113,17 +122,17 @@ Other:           CI/CD · Responsive Design · WCAG · Agile/Scrum
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - **Amazon Web Developer – Associate** *(renewing)*
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 🌐 **Portfolio:** [mcfela.framer.ai](https://mcfela.framer.ai)
-- 📧 **Email:** michaelchibuzor389@gmail.com
-- 💬 **Telegram:** [@michfela](https://t.me/michfela)
+- **Portfolio:** [mcfela.framer.ai](https://mcfela.framer.ai)
+- **Email:** michaelchibuzor389@gmail.com
+- **Telegram:** [@michfela](https://t.me/michfela)
 
 ---
 
