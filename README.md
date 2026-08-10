@@ -164,6 +164,7 @@ Other:           CI/CD · Responsive Design · WCAG · Agile/Scrum
 ## Certifications
 
 - **Amazon Web Developer – Associate** *(renewing)*
+- **BEng, Software Engineering** *Miva Open University • 2027*
 
 ---
 
