@@ -22,6 +22,46 @@ I build **production-grade mobile apps, web platforms, and Web3 dApps** that peo
 
 ## Shipped Products (Live in Production)
 
+### Fimbrè — AI Fitness Coach
+> **Your AI coach for smarter training and real progress**
+
+An AI-powered fitness app with a bold black/neon-green design. Onboarding builds a personalized profile (gender, age, height, workout category — strength, yoga, cycling, dancing, running, core, and more), then delivers tailored coaching. Built with React Native and Expo.
+
+- Personalized workouts across multiple categories
+- Rewards system to keep users motivated
+- Tailored nutrition plans
+- Participate in top fitness events
+- Social features — connect, share & explore with other users
+
+<div style="display:flex;">
+  <!-- TODO: upload Fimbrè screenshots to a /screenshots folder in the Fimbre repo, then swap these src paths in -->
+<img width="160" alt="Simulator Screenshot - iPhone 17 - 2026-08-10 at 19 22 20" src="https://github.com/user-attachments/assets/94fb5d31-3a43-48e4-945f-0bfdad353576" />
+<img width="160" alt="Simulator Screenshot - iPhone 17 - 2026-08-10 at 19 22 25" src="https://github.com/user-attachments/assets/326bf425-4671-4e21-a08c-9ae0eb89361a" />
+<img width="160" alt="Simulator Screenshot - iPhone 17 - 2026-08-10 at 19 22 31" src="https://github.com/user-attachments/assets/5fc08d96-d4e3-4d62-8579-602d58a4e465" />
+<img width="160" alt="Simulator Screenshot - iPhone 17 - 2026-08-10 at 19 22 50" src="https://github.com/user-attachments/assets/44e24a67-6f1c-4ae1-a3c6-2c6bdd7dbf7d" />
+<img width="160" alt="Simulator Screenshot - iPhone 17 - 2026-08-10 at 19 23 15" src="https://github.com/user-attachments/assets/445ca22d-1668-4cd5-a9d1-705a1b04162b" />
+<img width="160" alt="Simulator Screenshot - iPhone 17 - 2026-08-10 at 19 23 34" src="https://github.com/user-attachments/assets/3c0c6438-309f-4a90-a2a5-4d0263e92ab4" />
+</div>
+
+---
+
+### Benop International — Apartments & Autos
+> **Live at [benopinternational.com/apartments](https://benopinternational.com/apartments) & [benopinternational.com/autos](https://benopinternational.com/autos)**
+
+Two web platforms under one brand:
+
+- **[Benop Apartments](https://benopinternational.com/apartments)** — booking platform for premium serviced shortlet apartments with flexible stays, concierge support, and modern amenities
+- **[Benop Autos](https://benopinternational.com/autos)** — car import marketplace sourcing and shipping brand-new and quality used vehicles from Canada & USA to Nigeria, with inventory filtering by color, price, and more
+
+<div style="display:flex;">
+<!-- TODO: upload Benop screenshots to a /screenshots folder in this repo, then swap these src paths in -->
+<img width="500" alt="Screenshot 2026-08-10 at 7 22 11 PM" src="https://github.com/user-attachments/assets/a77c9d1b-e94a-4eec-baa3-03ef55263920" />
+<img width="500" alt="Screenshot 2026-08-10 at 7 22 00 PM" src="https://github.com/user-attachments/assets/95c045ea-768b-4770-846d-0975e97fd32d" />
+<img width="500" alt="Screenshot 2026-08-10 at 7 21 45 PM" src="https://github.com/user-attachments/assets/9eb1202f-4bc5-4808-8eb9-05f0496e2098" />
+</div>
+
+---
+
 ### [Mog.AI](https://mogai.io) — AI Fitness & Body Scanner
 > **Live on [App Store](https://apps.apple.com/us/app/mog-ai/id6758670115) & [Google Play](https://play.google.com/store/apps/details?id=com.mog.ai)**
 
@@ -115,7 +155,7 @@ Other:           CI/CD · Responsive Design · WCAG · Agile/Scrum
 <td align="center"><h2>8+</h2><strong>Years Experience</strong></td>
 <td align="center"><h2>2</h2><strong>Apps on App Store</strong></td>
 <td align="center"><h2>1,500+</h2><strong>Customers Served</strong></td>
-<td align="center"><h2>5+</h2><strong>Production Products</strong></td>
+<td align="center"><h2>6+</h2><strong>Production Products</strong></td>
 </tr>
 </table>
 
