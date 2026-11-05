@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mcfela.framer.ai"><img src="https://img.shields.io/badge/Portfolio-mcfela.framer.ai-black?logo=framer&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://mcfela.dev"><img src="https://img.shields.io/badge/Portfolio-mcfela.dev-black?logo=framer&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:michaelchibuzor389@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://t.me/michfela"><img src="https://img.shields.io/badge/Telegram-@michfela-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
